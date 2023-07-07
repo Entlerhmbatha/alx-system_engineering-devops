@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 # server config
 sudo cp /etc/hosts ~/hosts.new
